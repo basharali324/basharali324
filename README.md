@@ -2,7 +2,7 @@
 
 BI / Data Analyst with 5+ years of experience across retail, merchandising and supply chain analytics. Skilled in Power BI, SQL, Python, data modelling, KPI reporting, dashboard development and reporting automation.
 
-Recently completed MSc Data Analytics in the UK and building practical portfolio projects focused on retail analytics, supply chain reporting, Power BI-ready data models and SQL/Python analytics workflows.
+Recently completed MSc Data Analytics in the UK and building practical portfolio projects focused on retail analytics, supply chain reporting, Power BI-ready data models and SQL/Python analytics workflows.Currently focused on UK BI/Data Analyst, Power BI Developer and Supply Chain Data Analyst opportunities.
 
 ## Core Skills
 
