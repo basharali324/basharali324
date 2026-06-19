@@ -1,54 +1,65 @@
-# Mubasher Ali
+# Hi, I'm Mubasher Ali
 
-BI / Data Analyst with 5+ years of experience across retail, merchandising and supply chain analytics. Skilled in Power BI, SQL, Python, data modelling, KPI reporting, dashboard development and reporting automation.
+Microsoft Certified Power BI Data Analyst (PL-300) with 5+ years of experience in analytics, business intelligence, reporting, and data engineering.
 
-Recently completed MSc Data Analytics in the UK and building practical portfolio projects focused on retail analytics, supply chain reporting, Power BI-ready data models and SQL/Python analytics workflows.Currently focused on UK BI/Data Analyst, Power BI Developer and Supply Chain Data Analyst opportunities.
+## Current Focus
 
-## Core Skills
+* Microsoft Fabric
+* DP-600 Certification
+* Analytics Engineering
+* Data Warehousing
+* Power BI Development
+* End-to-End Data Projects
 
-- Power BI, DAX, Power Query
-- SQL, T-SQL, joins, CTEs, aggregations, window functions
-- Python, Pandas, data cleaning and automation
-- Data modelling, star schema, facts and dimensions
-- Retail analytics, inventory analysis and supply chain reporting
-- KPI definitions, dashboard QA and source-to-report reconciliation
+## Technical Skills
 
-## Featured Project
+### Analytics & BI
 
-### Retail Inventory & Sales Analytics Dashboard
+* Power BI
+* DAX
+* Power Query
+* Data Modelling
+* KPI Design
+* Dashboard Development
 
-A recruiter-ready analytics project showing how retail sales, inventory, product and store data can be transformed into business KPIs for decision-making.
+### Data Engineering
 
-**Business areas covered:**
+* SQL
+* Microsoft Fabric
+* Databricks
+* ETL / ELT Pipelines
+* Data Warehousing
 
-- Sales performance
-- Stock cover
-- Sell-through rate
-- Inventory turnover
-- Overstock risk
-- Out-of-stock risk
-- Replenishment priorities
-- Category performance
+### Programming
 
-**Tools used:**
+* Python
+* SQL
 
-- SQL
-- Python / Pandas
-- Power BI-ready data modelling
-- DAX-ready KPI definitions
-- Star schema design
+## Certifications
 
-Project link: https://github.com/basharali324/retail-inventory-sales-analytics
+* Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+* Preparing for Microsoft Fabric Analytics Engineer Associate (DP-600)
 
-## Target Roles
+## Featured Projects
 
-- BI Analyst
-- Data Analyst
-- Power BI Developer
-- Supply Chain Data Analyst
-- Retail Data Analyst
-- Junior Analytics Engineer
+### Wholesale Distribution Analytics Platform
 
-## Contact
+Production-style analytics platform demonstrating:
 
-LinkedIn: https://linkedin.com/in/mubasher-a-b91a14125
+* Data warehouse design
+* Dimensional modelling
+* ETL pipelines
+* Power BI reporting
+* Business KPI reporting
+* End-to-end analytics engineering practices
+
+## Career Interests
+
+* Analytics Engineer
+* Power BI Developer
+* BI Developer
+* Senior Data Analyst
+* Microsoft Fabric Consultant
+* Data & Analytics Consultant
+
+Let's connect and collaborate on data, analytics, and Microsoft Fabric projects.
