@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Mubasher Ali
 
-**Microsoft Certified Power BI Data Analyst | BI Developer | Analytics Engineer in the Making**
+**Microsoft Certified Power BI Data Analyst | BI Developer | Analytics Engineer**
 
 Wembley, London, UK | 📧 [mubasherali324@gmail.com](mailto:mubasherali324@gmail.com) | 📱 +44 7404 487 866
 
